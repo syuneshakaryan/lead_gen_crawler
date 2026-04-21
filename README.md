@@ -16,11 +16,9 @@ A multi-interface web crawler that extracts and validates email addresses from w
 
 ## Screenshots
 
-*Note: The following are placeholder image references. To use them, create an `assets/` folder in your project directory and add PNG screenshots with the following filenames:*
 
 - `telegram_bot_start.png` - Telegram bot /start command
 - `telegram_bot_input.png` - User sending list of websites
-- `telegram_bot_processing.png` - Bot processing domains
 - `telegram_bot_results.png` - Bot sending extracted emails
 - `telegram_bot_download.png` - User downloading Excel results file
 
