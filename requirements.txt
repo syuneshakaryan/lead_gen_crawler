@@ -1,0 +1,10 @@
+dnspython
+pandas
+openpyxl
+beautifulsoup4
+requests
+streamlit
+nest-asyncio
+xlsxwriter
+python-dotenv
+python-telegram-bot
