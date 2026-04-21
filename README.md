@@ -16,16 +16,16 @@ A multi-interface web crawler that extracts and validates email addresses from w
 
 ## Screenshots
 **Step 1: Start the Bot**
-<img src="assets/telegram_bot_start.png" width="500">
+<img src="assets/telegram_bot_start.png" width="200">
 
 **Step 2: Send Websites List**
-<img src="assets/telegram_bot_input.png" width="500">
+<img src="assets/telegram_bot_input.png" width="200">
 
 **Step 3: Receive Results**
-<img src="assets/telegram_bot_results.png" width="500">
+<img src="assets/telegram_bot_results.png" width="200">
 
 **Step 5: Download Excel File**
-<img src="assets/telegram_bot_download.png" width="500">
+<img src="assets/telegram_bot_download.png" width="200">
 
 ## Project Structure
 
