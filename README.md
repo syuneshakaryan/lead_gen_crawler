@@ -15,18 +15,17 @@ A multi-interface web crawler that extracts and validates email addresses from w
 - 📱 **Contact page detection**: Intelligently finds contact pages on websites
 
 ## Screenshots
-
 **Step 1: Start the Bot**
-![Telegram Bot Start](assets/telegram_bot_start.png)
+<img src="assets/telegram_bot_start.png" width="500">
 
 **Step 2: Send Websites List**
-![Send Websites](assets/telegram_bot_input.png)
+<img src="assets/telegram_bot_input.png" width="500">
 
-**Step 4: Receive Results**
-![Email Results](assets/telegram_bot_results.png)
+**Step 3: Receive Results**
+<img src="assets/telegram_bot_results.png" width="500">
 
 **Step 5: Download Excel File**
-![Download File](assets/telegram_bot_download.png)
+<img src="assets/telegram_bot_download.png" width="500">
 
 ## Project Structure
 
